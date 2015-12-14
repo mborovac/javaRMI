@@ -1,0 +1,4 @@
+Ovo je file1.txt kojeg ima SP1.
+Linija
+jos jedna linija
+malo dijakritika čćšpđž
