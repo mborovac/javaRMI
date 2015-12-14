@@ -1,0 +1,8 @@
+VM settings: -Djava.rmi.server.codebase=http://localhost:8080/
+
+CentralRegistry: NA
+
+ServiceProvider: localhost
+
+Client: localhost Client1 SP1
+		localhost Client2 SP2
